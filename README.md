@@ -2,8 +2,6 @@
 <br>
   <img src="https://yt3.ggpht.com/a/AGF-l7_gRI0RdRC_VNg535o0C21ltP0eTFhi4rjRmw=s900-c-k-c0xffffffff-no-rj-mo"  width="120">
 <br>
-<br>
-i9Card
 </h1>
 
 <p align="center">Repositório da Semana OmniStack 10 oferecida pela a RocketSeat!</p>
